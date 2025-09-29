@@ -179,7 +179,6 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 
-## Name : Muthulakshmi D - 212223040122
 ## STM 32 CUBE PROGRAM :
 #### main.c
 ```
